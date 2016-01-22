@@ -17,7 +17,7 @@ vagrant up
 vagrant shh
 ```
 
-Get the demuxed example files from the [svcDASHdemuxer](https://github.com/csieber/svcDASHdemuxer) project example and user svcDASHmuxer to put the segments back together:
+Get the demuxed example files from the [svcDASHdemuxer](https://github.com/csieber/svcDASHdemuxer/tree/master/vagrant) project example and user svcDASHmuxer to put the segments back together:
 
 ```bash
 cd /svcDASHmuxer/bin/
